@@ -1,0 +1,8 @@
+Django==4.1
+djangorestframework==3.12.4
+psycopg2-binary==2.9.3   # PostgreSQL database adapter
+pytz==2022.2.1
+django-cors-headers==3.7.0   # For handling CORS
+djangorestframework-simplejwt   # JWT authentication
+pytest-django==4.4.0   # PyTest support for Django
+pytest==6.2.5   # PyTest for testing
